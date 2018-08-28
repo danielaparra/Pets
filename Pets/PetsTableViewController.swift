@@ -43,6 +43,6 @@ class PetsTableViewController: UITableViewController {
     }
     */
    
-    let pets = ["Sisi", "Bella", "Nacho", "Theo", "Toby"]
+    let pets = ["Sisi", "Bella", "Nacho", "Theo", "Toby", "Bunny", "Cow", "Chickens"]
 
 }
